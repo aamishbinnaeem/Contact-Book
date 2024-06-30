@@ -1,7 +1,3 @@
-Sure! Here's a description for your GitHub repository for a Contact Book application:
-
----
-
 **Contact Book**
 
 Welcome to the Contact Book application repository! This project showcases a comprehensive contact management system built using object-oriented programming principles in C++. The Contact Book application allows users to efficiently store, manage, and manipulate their contact information with a variety of features.
@@ -15,7 +11,6 @@ Welcome to the Contact Book application repository! This project showcases a com
 - **Group Management**: Organize contacts into groups for better categorization.
 - **Advanced Search**: Perform advanced searches using multiple criteria.
 - **Persistence**: Ensure data persistence with file operations, enabling you to save and load contact information.
-- **GUI Integration** (optional): Implement a graphical user interface using Windows Forms or integrate with Google Firebase for cloud storage.
 
 **Code Structure**
 
@@ -46,10 +41,6 @@ Welcome to the Contact Book application repository! This project showcases a com
 **Contributing**
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request. 
-
-**License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 **Acknowledgments**
 
